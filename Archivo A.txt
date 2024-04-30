@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Modificado por Dani 
-=======
-Archivo 
->>>>>>> fa22e91fd89ee87401e8b9c39691ec6a476a1137
+Modificado por Dani y alex Bonilla correctamente
